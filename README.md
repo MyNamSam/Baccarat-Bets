@@ -3,12 +3,19 @@
 **Submitters**
 - Vinit Jangir
 - Tan Phu Nguyen
+- Samarpan Magar
+- Sean Quinn
 
 ---
 
 ## Referenced Use Case(s)
 **The Game Mechanics**  
 This ADR focuses on the architectural design necessary to implement a fully functional mobile game based on the Baccarat card game. The key features include betting options, multiplayer functionality (CPU & user), and statistics tracking.
+
+---
+
+## Status
+Accepted
 
 ---
 
