@@ -3,7 +3,7 @@
 **Submitters**
 - Vinit Jangir
 - Tan Phu Nguyen
-
+- Samarpan Magar
 ---
 
 ## Referenced Use Case(s)
